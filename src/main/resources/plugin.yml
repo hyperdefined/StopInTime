@@ -1,0 +1,5 @@
+name: StopInTime
+version: ${project.version}
+main: lol.hyper.stopintime.StopInTime
+api-version: 1.16
+author: hyperdefined
